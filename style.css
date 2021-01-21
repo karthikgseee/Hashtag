@@ -1,6 +1,6 @@
 .image {
-  width: 750px;
-  height: 650px;
+  width: 850px;
+  height: 750px;
   animation: float 5s ease-in-out infinite;
   float: left;
   margin-left: 50px;
@@ -220,8 +220,8 @@ h2 {
     align-items: center;
     margin-top: 150px;
     margin-left: 1%;
-    width: 350px;
-    height: 250px;
+    width: 400px;
+    height: 300px;
   }
   .name {
     margin-top: -20px;
